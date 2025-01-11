@@ -17,6 +17,7 @@ public class ventanaUno extends JFrame implements ActionListener{
     
     ventanaUno(){
         setLayout(null);
+        this.setTitle("Ventana uno");
         colorRGB  = new Color(255,0,0);
         getContentPane().setBackground(colorRGB);
         icono = Toolkit.getDefaultToolkit().getImage("images/icon.png");
