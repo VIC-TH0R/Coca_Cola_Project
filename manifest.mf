@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
 Created-By: VIC-TH0R
-Main-Class: CocaCola.class
+Main-Class: CocaCola
 X-COMMENT: My first program
